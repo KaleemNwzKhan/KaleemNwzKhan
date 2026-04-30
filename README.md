@@ -9,13 +9,13 @@
 ## 🔬 About Me
 
 Hi, I'm Kaleem 👋  
-Software Engineer | Full Stack Developer | Tech Enthusiast
+Systems Researcher| Ph.D. candidate|
 
 ---
 
 ## 🔬 Research / Interests
 
-I work on AI + Software Systems — building scalable web applications, exploring machine learning applications, and developing intelligent systems that solve real-world problems.
+My research focuses on collaborative perception between vehicles and roadside infrastructure. It enables sensing beyond line-of-sight. I study the co-design of perception, communication, and computation. The goal is reliable and safe autonomous decision-making. My work has appeared in top mobile and sensing systems venues, including MobiSys and SenSys.
 
 ---
 
