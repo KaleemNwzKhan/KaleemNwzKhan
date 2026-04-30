@@ -21,9 +21,9 @@ My research focuses on collaborative perception between vehicles and roadside in
 
 ## 💼 Experience
 
-- Google · Student Researcher · 2025  
-- Meta · Software Engineering Intern · 2025  
-- General Motors · Software Engineering Intern · 2023, 2024  
+- General Motors · Research Intern · 2024
+- RIT            . Research Assistant . 2022
+- NCAI Pakistan · Team Lead · 2020
 
 ---
 
