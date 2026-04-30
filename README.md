@@ -30,7 +30,7 @@ My research focuses on collaborative perception between vehicles and roadside in
 </div>
 
 <p align="left">
-
+  <img src="https://img.shields.io/badge/Research-Networked Sensing-informational?style=flat&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
@@ -38,7 +38,6 @@ My research focuses on collaborative perception between vehicles and roadside in
   <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Tool-ROS-informational?style=flat&logo=ros&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Research-SLAM-informational?style=flat&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/Sensor-LiDAR-informational?style=flat&color=2bbc8a"/>
 
 </p>
