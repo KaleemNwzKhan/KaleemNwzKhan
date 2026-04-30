@@ -31,12 +31,14 @@ My research focuses on collaborative perception between vehicles and roadside in
 
 <p align="left">
 
-  <img src="https://img.shields.io/badge/Systems-Autonomous%20Driving-informational?style=flat&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Research-Edge%20AI-informational?style=flat&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Focus-V2X%20Communication-informational?style=flat&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Area-Distributed%20Systems-informational?style=flat&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a"/>
   <img src="https://img.shields.io/badge/ML-PyTorch-informational?style=flat&logo=pytorch&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
-  <img src="https://img.shields.io/badge/Cloud-GCP-informational?style=flat&logo=googlecloud&logoColor=white&color=FFA500"/>
+  <img src="https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tool-ROS-informational?style=flat&logo=ros&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Research-SLAM-informational?style=flat&color=2bbc8a"/>
+  <img src="https://img.shields.io/badge/Sensor-LiDAR-informational?style=flat&color=2bbc8a"/>
 
 </p>
