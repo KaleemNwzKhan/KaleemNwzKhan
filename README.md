@@ -1,24 +1,15 @@
 <h1 align="center">Hi, I'm Kaleem 👋</h1>
 Systems Researcher | Ph.D. candidate at RIT
-
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Systems+Researcher;Autonomous+Driving;Networked+Systems;" />
 </p>
-
 ## 🔬 Research / Interests
-
 My research focuses on collaborative perception between vehicles and roadside infrastructure. It enables sensing beyond line-of-sight. I study the co-design of perception, communication, and computation. The goal is reliable and safe autonomous decision-making. My work has appeared in top mobile and sensing systems venues, including MobiSys and SenSys.
-
----
-
 ## 💼 Experience
 
 - General Motors · Research Intern · 2024  
 - RIT · Research Assistant · 2022  
 - NCAI Pakistan · Team Lead · 2020  
-
----
-
 ## 🛠️ Skills
 
 <div class="markdown-heading" dir="auto">
