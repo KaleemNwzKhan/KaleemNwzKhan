@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Kaleem 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Software+Engineer;Full+Stack+Developer;AI+Enthusiast;Always+Building+Something+New" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=22&center=true&vCenter=true&width=500&lines=Systems+Researcher;Autonomous+Driving;Networked+Systems;" />
 </p>
 
 ---
