@@ -7,7 +7,7 @@ Systems Researcher | Ph.D. candidate
 
 ## 🔬 Research / Interests
 
-My research focuses on perception for autonomous mobile systems. I specialize in cooperative perception, multi-sensor fusion, localization, and 3D scene representation. My work combines sensing and computing across vehicles and infrastructure to improve the accuracy and coverage of environmental perception. My research enables vehicles to share information, overcome sensing limitations, and build richer representations of dynamic environments. My work has appeared in top mobile and sensing systems venues, including MobiSys and SenSys.
+My research focuses on perception for autonomous mobile systems. I specialize in cooperative perception, multi-sensor fusion, localization, and 3D scene representation. I develop systems that combine sensing and computing across vehicles and infrastructure. These systems improve the accuracy and coverage of environmental perception for real-time decision-making and safer autonomous operation. My work has appeared in top mobile and sensing systems venues, including MobiSys and SenSys.
 
 ---
 
